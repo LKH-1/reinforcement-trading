@@ -8,3 +8,7 @@ Process:
 
 Steps:
 a) Make scraper to start collecting data.
+
+
+Corner cases:
+1) Script should not run after the market is closed, the logic should check that.
