@@ -12,3 +12,5 @@ a) Make scraper to start collecting data.
 
 Corner cases:
 1) Script should not run after the market is closed, the logic should check that.
+
+FOR THE TIME, I HAVE MOVED THIS REPO TO PRIVATE (BITBUCKET) BECAUSE A LOT OF MY LOGIN CREDENTIALS ARE THERE AT DIFFERENT PLACES, WILL MAKE IT LIVE ONCE I HAVE SOME SUCCESS and TIME TO CHANGE REPO FOR GENERIC PURPOSE.
